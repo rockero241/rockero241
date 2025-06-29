@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I’m Luis Olivas
 
-<!--
-**rockero241/rockero241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Transitioned from sales and corporate healthcare into Computer Science — now building real-world tech at the enterprise level.
 
-Here are some ideas to get you started:
+🚀 Currently designing and implementing a **full-stack cloud application** at **AutoZone** across:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-Stack Development (React, Java Spring Boot)
+- Cloud & DevOps (GKE, Docker, Kubernetes, CI/CD)
+- Agile Development
+
+🌐 My focus? Blending software, product thinking, and business strategy to create products people actually use.
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/l0livas/)
+
