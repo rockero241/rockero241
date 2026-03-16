@@ -1,14 +1,11 @@
 # 👋 Hey, I’m Luis Olivas
 
-💻 Transitioned from sales and corporate healthcare into Computer Science — now building real-world tech at the enterprise level.
+Software engineer with experience in cloud infrastructure, full stack development, and fintech environments
 
-🚀 Currently designing and implementing a **full-stack cloud application** at **AutoZone** across:
+Built and deployed enterprise applications to GKE using Java Spring Boot, React, Docker, and Kubernetes at AutoZone. Incoming Software Engineering Intern at JPMorgan Chase. Teaching Assistant for Algorithms and Data Structures at Berea College.
 
-- Full-Stack Development (React, Java Spring Boot)
-- Cloud & DevOps (GKE, Docker, Kubernetes, CI/CD)
-- Agile Development
+Background in sales and operations before engineering. I translate technical solutions into business outcomes.
 
-🌐 My focus? Blending software, product thinking, and business strategy to create products people actually use.
+Core stack: Java · Python · React · Spring Boot · GKE · Docker · Kubernetes · CI/CD
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/l0livas/)
-
